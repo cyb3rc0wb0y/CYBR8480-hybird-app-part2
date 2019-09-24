@@ -28,7 +28,7 @@ ember generate component device-status
 ```hbs
 Platform: {{platform}}<br>
 Model: {{model}}<br>
-UUID: {{uuid} <br>
+UUID: {{uuid}} <br>
 Manufacturer: {{manufacturer}}<br>
 Virtural: {{virtural}}<br>
 Serial: {{serial}}<br>
