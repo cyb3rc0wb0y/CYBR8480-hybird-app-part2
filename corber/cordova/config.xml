@@ -31,4 +31,6 @@
     <allow-navigation href="http://192.168.0.37:4200" name="ec-nav"/>
     <allow-navigation href="http://192.168.0.37:4200" name="ec-nav"/>
     <allow-navigation href="http://192.168.0.37:4200" name="ec-nav"/>
+    <allow-navigation href="http://192.168.0.37:4200" name="ec-nav"/>
+    <allow-navigation href="http://192.168.0.37:4200" name="ec-nav"/>
 </widget>
